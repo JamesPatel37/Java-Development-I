@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="source code/csula-cs201-fall-2014-1785fc1/src"/>
+	<classpathentry kind="lib" path="hw2/ChocoCake.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="source code/csula-cs201-fall-2014-1785fc1/bin"/>
+</classpath>
