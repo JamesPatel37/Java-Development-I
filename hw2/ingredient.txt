@@ -1,0 +1,8 @@
+# Shopping List
+Milk
+1 Litres
+Cocoa
+2 Kgs
+Sugar
+3 Kgs
+==end==
